@@ -13,5 +13,6 @@ Scipt will print to STDOUT MySQL commands to make structure database1 the same a
 
 Usage for prefixed mode: 
 `./mysqlcompare.sh database1 prefix1 database2 prefix2`
+
 Usage for prefixless mode: 
 `./mysqlcompare.sh database1 "" database2 ""`
